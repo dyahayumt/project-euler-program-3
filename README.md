@@ -17,6 +17,13 @@ Tahapan testing file adalah sebagai berikut :
 npm init
 `
 
+Untuk memanggil fungsi jest, edit package.json
+
+```
+"scripts": {
+    "test": "jest"
+```
+
 2. Lalu install jest dengan :
  
  `
