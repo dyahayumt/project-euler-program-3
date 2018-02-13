@@ -31,5 +31,6 @@ npm init
  
  Maka hasil yang akan keluar adalah:
  
- ![Image](https://github.com/dyahayumt/project-euler-program-3/Screen Shot 2018-02-13 at 18.31.37.png)
-
+![Image][1]
+⋮
+[1]: https://github.com/dyahayumt/project-euler-program-3/blob/master/Screen%20Shot%202018-02-13%20at%2018.31.37.png
