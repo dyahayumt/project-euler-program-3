@@ -26,7 +26,7 @@ npm init
  3. Run 
  
  `
- npm run test
+ npm test
  `
  
  Maka hasil yang akan keluar adalah:
