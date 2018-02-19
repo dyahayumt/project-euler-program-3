@@ -36,4 +36,4 @@ To call jest, edit package.json
  
  So, the result is:
 
-![alt text](../docs/testisPrime.png)
+![alt text](https://github.com/dyahayumt/project-euler-program-3/docs/testisPrime.png)
