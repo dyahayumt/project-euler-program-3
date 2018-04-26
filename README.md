@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/dyahayumt/project-euler-program-3/tree/master.svg?style=svg)](https://circleci.com/gh/dyahayumt/project-euler-program-3/tree/master)
+
 # About this project
 
  This repository contain a sample JavaSript code to solve problem from :
