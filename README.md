@@ -1,8 +1,8 @@
-[![CircleCI](https://circleci.com/gh/dyahayumt/project-euler-program-3/tree/master.svg?style=svg)](https://circleci.com/gh/dyahayumt/project-euler-program-3/tree/master)
+[![CircleCI](https://circleci.com/gh/dyahayumt/project-euler-program-3.svg?style=shield&circle-token)](https://circleci.com/gh/dyahayumt/project-euler-program-3)This 
 
-# About this project
+# About 
 
- This repository contain a sample JavaSript code to solve problem from :
+repository contain a sample JavaSript code to solve problem from :
 
  https://projecteuler.net/problem=3
 
