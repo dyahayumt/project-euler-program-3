@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/dyahayumt/project-euler-program-3.svg?style=shield&circle-token)](https://circleci.com/gh/dyahayumt/project-euler-program-3)This 
+[![CircleCI](https://circleci.com/gh/dyahayumt/project-euler-program-3.svg?style=shield&circle-token)](https://circleci.com/gh/dyahayumt/project-euler-program-3) 
 
 # About 
 
